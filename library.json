@@ -1,0 +1,16 @@
+{
+  "name": "Carlitto",
+  "keywords": "carlitto",
+  "description": "Allow to use the library to Carlitto robot for Arduino Nano",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/UlisesGordillo/Carlitto.git"
+  },
+  "frameworks": "arduino",
+  "platforms":
+  [
+    "atmelavr",
+    "carlitto"
+  ]
+}
